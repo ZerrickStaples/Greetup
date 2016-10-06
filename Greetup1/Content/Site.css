@@ -1,0 +1,41 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image:url('http://www.hennessy.com/sites/default/files/styles/h250_slideshow/public/hennessy7_1_2_0.jpg?itok=bKIlUZ7U');
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+.jumbotron{
+    background-image:url('https://pbs.twimg.com/profile_images/378800000822867536/3f5a00acf72df93528b6bb7cd0a4fd0c.jpeg');
+    background-position:center;
+    background-repeat:no-repeat;
+    color:blue;
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#henney{
+    background-image:url('http://a1.files.maxim.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTM2MTg2MzY2NzkzOTE0MzIz.jpg');
+    background-size: auto;
+}
+
